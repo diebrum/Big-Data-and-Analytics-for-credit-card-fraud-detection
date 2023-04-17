@@ -4,6 +4,6 @@ Projeto para detecção de operações fraudulentas em cartões de crédito util
 
 Etapas do projeto:
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/diebrum/Big-Data-and-Analytics-for-credit-card-fraud-detection/blob/main/pyspark.drawio.png)
 
 
