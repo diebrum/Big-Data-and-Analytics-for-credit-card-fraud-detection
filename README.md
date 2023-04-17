@@ -4,3 +4,6 @@ Projeto para detecção de operações fraudulentas em cartões de crédito util
 
 Etapas do projeto:
 
+![alt text](http://url/to/img.png)
+
+
